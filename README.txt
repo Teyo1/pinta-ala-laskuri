@@ -1,0 +1,1 @@
+Tämä ohjelma tarjoaa käyttäjälle valikon, jossa he voivat valita laskettavan pinta-alan tyypin. Kun käyttäjä valitsee tietyn pinta-alan, ohjelma pyytää käyttäjältä tarvittavat tiedot ja laskee sitten pinta-alan valitun kaavan avulla.
